@@ -1,6 +1,7 @@
 # fmcg-databricks-lakehouse
 FMCG Data Lakehouse: M&A Integration Pipeline
 Built with Databricks, PySpark, AWS S3, and Power BI
+
 📌 Project Overview
 This project simulates a high-stakes Data Engineering scenario following a corporate Merger and Acquisition (M&A). As the lead Data Engineer, I built an end-to-end Data Lakehouse to integrate daily sales and supply chain data from a newly acquired subsidiary ("Grand") into the parent company's ("AtliQ") analytical ecosystem.
 
